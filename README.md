@@ -13,7 +13,7 @@
 ## 🧑‍🚀 About Me
 - I am a software developer actively creating a new programming language.
 - My technical foundation is centered around Python.
-## ✨ Fun Facts
+## ✨ Fun Facts /n
 
 - Fascinated by programming language syntax and structure.
 
